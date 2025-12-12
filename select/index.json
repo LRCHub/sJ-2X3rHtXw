@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "モノトーン",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-12T10:23:54.964310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_モノトーン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_モノトーン_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_モノトーン_YOASOBI.txt"
+    }
+  ]
+}
